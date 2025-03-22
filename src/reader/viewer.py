@@ -1,7 +1,3 @@
-"""Functions for displaying the Real Python feed."""
-""" Small change for demo"""
-
-# Standard library imports
 from typing import List
 
 
